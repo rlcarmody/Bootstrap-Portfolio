@@ -1,0 +1,7 @@
+body {
+    min-height: 100vh;
+}
+img ~ div {
+    position: absolute;
+    bottom: 5%;
+}
